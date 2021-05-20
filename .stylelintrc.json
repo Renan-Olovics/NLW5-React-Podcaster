@@ -1,0 +1,7 @@
+{
+  "plugins": ["stylelint-prettier"],
+  "rules": {
+    "block-closing-brace-newline-after": "always",
+      "indentation": 2
+  }
+}
